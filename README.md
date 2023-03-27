@@ -3,8 +3,8 @@
 This is a recreation of the Tesla app using React Native. The app features multiple screens and functionalities, such as displaying Tesla vehicles, controlling features such as lighting and climate, as well as entering and exiting the vehicle.
 
 <div>
-<img src="/assets/images/tesla-app-screenshot.png" alt="Tesla App" width="250" />
-<img src="/assets/images/tesla-app-screenshot.png" alt="Tesla App" width="250" />
+<img src="/assets/images/tesla-app-screenshot.png" alt="Tesla App" width="230" />
+<img src="/assets/images/tesla-app-climate.png" alt="Tesla App" width="230" />
 </div>
 
 ## Installation
