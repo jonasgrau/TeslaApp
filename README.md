@@ -1,4 +1,4 @@
-**Tesla App in React Native
+**Tesla App in React Native**
 
 This is a recreation of the Tesla app using React Native. The app features multiple screens and functionalities, such as displaying Tesla vehicles, controlling features such as lighting and climate, as well as entering and exiting the vehicle.
 
