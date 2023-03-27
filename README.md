@@ -1,17 +1,24 @@
-# Expo Router Example
+**Tesla App in React Native
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This is a recreation of the Tesla app using React Native. The app features multiple screens and functionalities, such as displaying Tesla vehicles, controlling features such as lighting and climate, as well as entering and exiting the vehicle.
 
-## 🚀 How to use
+Tesla App Screenshot
 
-```sh
-npx create-react-native-app -t with-router
-```
+Installation
+Make sure you have Node.js and npm installed on your system.
+Clone this repository: git clone https://github.com/<your-github-name>/tesla-app.git
+Navigate to the project directory: cd tesla-app
+Install dependencies: npm install
+Run the app: npm start
+Features
+Display of Tesla vehicles
+Control of lighting and climate
+Entering and exiting the vehicle
+Contributing
+Contributions are welcome! If you want to contribute to the project, please open an issue to discuss proposed changes or create a pull request.
 
-## 📝 Notes
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
-
-# TeslaApp
+Contact
+Please feel free to contact me if you have any questions or feedback about the project.
