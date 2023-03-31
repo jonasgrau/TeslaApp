@@ -10,8 +10,8 @@ This is a recreation of the Tesla app using React Native. The app features multi
 ## Installation
 
 1. Make sure you have Node.js and npm installed on your system.
-2. Clone this repository: `git clone https://github.com/<your-github-name>/tesla-app.git`
-3. Navigate to the project directory: `cd tesla-app`
+2. Clone this repository: `git clone https://github.com/jonasgrau/TeslaApp.git`
+3. Navigate to the project directory: `cd TeslaApp`
 4. Install dependencies: `npm install`
 5. Run the app: `npm start`
 
